@@ -1,4 +1,4 @@
-# Team2 Layoffs Code
+# Layoffs as an alternative data
 
 ## Module requirements
 
